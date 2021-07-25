@@ -1,0 +1,31 @@
+{
+  "name": "fixed-set",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vocafeuvre/fixed-set.git"
+  },
+  "keywords": [
+    "set",
+    "sets",
+    "fixed",
+    "lookup",
+    "O(1)"
+  ],
+  "author": "vocafeuvre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vocafeuvre/fixed-set/issues"
+  },
+  "homepage": "https://github.com/vocafeuvre/fixed-set#readme",
+  "devDependencies": {
+    "benchmark": "^2.1.4",
+    "jest": "^27.0.6",
+    "unique-names-generator": "^4.6.0"
+  }
+}
